@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#main-content {
+  h1 {
+    color: #0047ab;
+  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 410px;
+  margin: 20px;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+  border: 1px solid #ccc;
+
+  &:hover {
+    background-color: #f5f5f5;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    white-space: normal;
+    padding: 0 20px;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  h3 {
+    text-align: center;
+    margin-top: 0 !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .card {
+    flex: 1 0 100%;
+    margin: 10px 0
+  }
+}

@@ -1,0 +1,17 @@
+- title: AI Imager
+  description: AI driven image analyzer and generator. Introduces the concept of a mashup.
+  url: https://github.com/evarga/ai-imager
+  image: assets/images/ai-imager-logo.png
+  domain: Parallel & Distributed Computing
+
+- title: Comments Aggregator
+  description: Aggregates comments from a news site using AI. Illustrates web scraping as a data collection method.
+  url: https://github.com/evarga/comments-aggregator
+  image: assets/images/comments-aggregator-logo.png
+  domain: Parallel & Distributed Computing
+
+- title: MPI Primer
+  description: Demonstrates the powerfulness of the SPMD paradigm with MPI. Showcases both static and dynamic task scheduling.
+  url: https://github.com/evarga/mpi-primer
+  image: assets/images/mpi-primer-logo.png
+  domain: Parallel & Distributed Computing
