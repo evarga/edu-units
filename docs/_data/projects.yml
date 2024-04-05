@@ -11,7 +11,25 @@
   domain: Parallel & Distributed Computing
 
 - title: MPI Primer
-  description: Demonstrates the powerfulness of the SPMD paradigm with MPI. Showcases both static and dynamic task scheduling.
+  description: Demonstrates the SPMD paradigm with MPI. Showcases both static and dynamic task scheduling.
   url: https://github.com/evarga/mpi-primer
   image: assets/images/mpi-primer-logo.png
+  domain: Parallel & Distributed Computing
+
+- title: OpenMP Primer
+  description: Demonstrates the declarative approaches to parallel computing. Showcases the OpenMP framework.
+  url: https://github.com/evarga/openmp-primer
+  image: assets/images/openmp-primer-logo.png
+  domain: Parallel & Distributed Computing
+
+- title: Distributed Testing
+  description: Illuminates the essentials of service virtualization. Showcases the mountebank tool.
+  url: https://github.com/evarga/distributed-testing
+  image: assets/images/distributed-testing-logo.png
+  domain: Parallel & Distributed Computing
+
+- title: Fault Tolerance Demo
+  description: Explains why a distributed system must be fault-tolerant. Introduces the circuit-breaker pattern.
+  url: https://github.com/evarga/fault-tolerance-demo
+  image: assets/images/fault-tolerance-demo-logo.png
   domain: Parallel & Distributed Computing

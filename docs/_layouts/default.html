@@ -7,6 +7,23 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var select = document.getElementById('domain-filter');
+        select.addEventListener('change', function() {
+          var selectedDomain = this.value;
+          var cards = document.querySelectorAll('.card');
+          cards.forEach(function(card) {
+            if (selectedDomain === '' || card.getAttribute('data-domain') === selectedDomain) {
+              card.style.display = 'block';
+            } else {
+              card.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
