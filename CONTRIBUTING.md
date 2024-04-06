@@ -11,8 +11,16 @@ Open a GitHub [issue](https://docs.github.com/en/issues/tracking-your-work-with-
 ## Submitting a Pull Request
 Create a GitHub [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) as the best way to propose concrete changes to the website. The steps follow the usual GitHub flow:
 1. Fork the repository and create your branch from `main`.
-2. Make sure your artifacts are in perfect shape. For example, if you are proposing a new educational unit, make sure it is self-contained, is original work and has a clear learning objective; take a look at any existing unit how to structure the README file. If your PR is about fixing/improving the website, make sure the changes are consistent with the overall design and the content is accurate. Always test your version locally before making a PR, [learn more](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+2. If you are proposing a new educational unit, make sure it is self-contained, is original work and has clear learning objectives; take a look at any existing unit how to structure the README file. If your PR is about fixing/improving the website, make sure the changes are consistent with the overall design and the content is accurate. Always test your version locally before making a PR, [learn more](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 3. Issue that pull request!
+
+### Registering a New Educational Unit
+In case your educational unit passes the review, it will be added to the website. The following items are required for a card to be created:
+- **Title**: The title of the educational unit.
+- **Domain**: The domain of the educational unit (e.g., Computer Science, Mathematics, Software/Systems Engineering, etc.).
+- **Description**: A brief description of the educational unit (must fit in two lines on a card).
+- **Image**: A representative image for the educational unit (must be 1280x640 pixels as suggested by GitHub for a social preview image of a project).
+- **Link**: The link to the repository of the educational unit.
 
 ## Code of Conduct
 _Edu Units_ adheres to a [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating, you are expected to uphold this code.
