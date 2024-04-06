@@ -19,7 +19,7 @@ In case your educational unit passes the review, it will be added to the website
 - **Title**: The title of the educational unit.
 - **Domain**: The domain of the educational unit (e.g., Computer Science, Mathematics, Software/Systems Engineering, etc.).
 - **Description**: A brief description of the educational unit (must fit in two lines on a card).
-- **Image**: A representative image for the educational unit (must be 1280x640 pixels as suggested by GitHub for a social preview image of a project).
+- **Image**: A representative image for the educational unit (must be 1280x640 pixels as suggested by GitHub for a social media preview image of a project).
 - **Link**: The link to the repository of the educational unit.
 
 ## Code of Conduct
