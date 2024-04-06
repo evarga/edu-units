@@ -20,6 +20,7 @@
 .card {
   flex: 0 0 auto;
   width: 410px;
+  height: 320px;
   margin: 20px;
   box-sizing: border-box;
   transition: all 0.3s ease;
@@ -54,6 +55,7 @@
   h3 {
     text-align: center;
     margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 }
 

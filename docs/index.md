@@ -15,7 +15,7 @@ layout: default
     </select>
 </div>
 
-# Available Learning Materials
+# Selected Materials
 
 <div id="cards-container">
     {% for project in site.data.projects %}
