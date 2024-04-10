@@ -1,3 +1,9 @@
+- title: NFRs Guide
+  description: Explains the importance and usage of non-functional requirements. Showcases the Planguage.
+  url: https://github.com/evarga/nfrs-guide
+  image: assets/images/nfrs-guide-logo.png
+  domain: Systems & Software Engineering
+
 - title: AI Imager
   description: AI driven image analyzer and generator. Introduces the concept of a mashup.
   url: https://github.com/evarga/ai-imager
