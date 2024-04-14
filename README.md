@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/evarga/edu-units/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/evarga/edu-units/actions/workflows/pages/pages-build-deployment)
 # Overview
 This is an umbrella project for centralizing access to various self-contained educational units from different domains, like software engineering, parallel and distributed computing, computer science, etc. The key benefits from this approach are as follows:
 
