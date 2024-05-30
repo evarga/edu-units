@@ -31,5 +31,8 @@ The accompanying website contains a collection of educational units that complem
 # Usage
 The UI is designed to be simple and intuitive. The main page contains a selection box with currently available domains (the _All Domains_ option is chosen by default). The rest of the home page lists all educational units filtered by domain. Each educational unit is represented as a clickable card that will open the respective repository in a new tab.
 
+# Development
+The whole website project is situated inside the `docs` folder. It uses [Jekyll](https://jekyllrb.com) with some customizations. The card definitions are located in the `_data/projects.yml` file. The structure of this file is self-explanatory, as it already contains many examples.  
+
 # Conclusion
 You have witnessed the power of an umbrella project that centralizes access to various self-contained educational units from different domains. This approach allows for increased visibility, simplified maintenance, and community contributions. Exploring the content of the `docs` folder (this is the specified source for the GitHub Pages) you were able to fathom relevant details how the Jekyll, Liquid and GitHub Pages technology stack operates as well as how to customize the appearance of the site using a custom theme. You also learned how to produce a GitHub social media preview image for a project with Microsoft Designer.
