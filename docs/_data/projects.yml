@@ -10,6 +10,12 @@
   image: assets/images/idp-career-logo.png
   domain: Systems & Software Engineering
 
+- title: TOY+ VM Simulator
+  description: Explains the concept of bootstrapping in computing using the TOY imaginary machine.
+  url: https://github.com/evarga/toy_plus
+  image: assets/images/toy-plus-logo.png
+  domain: Computer Science
+
 - title: AI Imager
   description: AI driven image analyzer and generator. Introduces the concept of a mashup.
   url: https://github.com/evarga/ai-imager
