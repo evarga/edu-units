@@ -4,6 +4,12 @@
   image: assets/images/nfrs-guide-logo.png
   domain: Systems & Software Engineering
 
+- title: SH for Introduction to Algorithms
+  description: Provides self-learners with additional solved items from the book Introduction to Algorithms by CLRS.
+  url: https://evarga.gitbook.io/sh-intro-to-algs
+  image: assets/images/study-helper-logo.png
+  domain: Study Helper
+
 - title: IDP Career
   description: Demonstrates how to use an internal developer portal (IDP) for career development and management in software tech industry.
   url: https://github.com/evarga/idp-career
