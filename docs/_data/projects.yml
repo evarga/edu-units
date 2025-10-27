@@ -10,6 +10,12 @@
   image: assets/images/study-helper-logo.png
   domain: Study Helper
 
+- title: SH for Intro to Analysis of Algorithms
+  description: Provides self-learners with solved items from the book Introduction to Analysis of Algorithms by SF.
+  url: https://evarga.gitbook.io/sh-intro-to-analysis-of-algs
+  image: assets/images/study-helper-logo.png
+  domain: Study Helper
+
 - title: IDP Career
   description: Demonstrates how to use an internal developer portal (IDP) for career development and management in software tech industry.
   url: https://github.com/evarga/idp-career
