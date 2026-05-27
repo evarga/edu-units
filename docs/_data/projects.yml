@@ -17,8 +17,8 @@
   domain: Study Helper
 
 - title: SH for Intro to Analysis of Algorithms
-  description: Provides self-learners with solved items from the book Introduction to Analysis of Algorithms by SF.
-  url: https://evarga.gitbook.io/sh-intro-to-analysis-of-algs
+  description: Provides self-learners with solved items from the book An Introduction to the Analysis of Algorithms, Second Edition by SF.
+  url: https://evarga.gitbook.io/sh-aofa/
   image: assets/images/study-helper-logo.png
   domain: Study Helper
 
