@@ -4,7 +4,7 @@
   image: assets/images/nfrs-guide-logo.png
   domain: Systems & Software Engineering
 
-- title: NFRs Guide
+- title: NFR Refiner
   description: This teaching and research material is designed to demonstrate the value of intelligent agents in transforming passive methods and practices into live, interactive experiences.
   url: https://github.com/evarga/nfr-refiner
   image: assets/images/nfr-refiner-logo.png
